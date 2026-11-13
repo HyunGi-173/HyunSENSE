@@ -1,0 +1,5 @@
+streamlit>=1.45,<2
+cryptography>=42,<50
+psycopg2-binary>=2.9,<3
+openai>=1.50,<3
+tzdata>=2024.2
